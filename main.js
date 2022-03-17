@@ -82,6 +82,7 @@ const borrarCarrito = d.querySelector("#borrar").addEventListener("click", () =>
         productos.firstChild.remove();
     }
     carrito.length = 0;
+    sumatoriaCarrito.length = 0;
 });
 
 const comprar = d.querySelector("#comprar").addEventListener("click", () => {
@@ -103,6 +104,7 @@ const comprar = d.querySelector("#comprar").addEventListener("click", () => {
         )
 
     carrito.length = 0;
+    sumatoriaCarrito.length = 0;
 
     productos.innerHTML = ``;
     let resets = Array.from(document.getElementsByClassName("botonMostrar"));
