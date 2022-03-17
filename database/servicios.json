@@ -1,0 +1,31 @@
+[{
+        "codigo": "HOST",
+        "nombre": "HOSTING",
+        "precio": 2000
+    },
+    {
+        "codigo": "PAG",
+        "nombre": "DISEÑO Y MAQUETADO",
+        "precio": 15000
+    },
+    {
+        "codigo": "SE-01",
+        "nombre": "SEO BASICO",
+        "precio": 3000
+    },
+    {
+        "codigo": "SE-02",
+        "nombre": "SEO AVANZADO",
+        "precio": 4000
+    },
+    {
+        "codigo": "MARK",
+        "nombre": "SERVICIO DE MARKETING",
+        "precio": 8000
+    },
+    {
+        "codigo": "MARK-02",
+        "nombre": "SERVICIO DE MARKETING AVANZADO",
+        "precio": 16000
+    }
+]
